@@ -42,6 +42,8 @@ layout: false
 ![download](download.png)
 
 ---
+## インストール
+
 インストールが完了すると、gitコマンドが使用可能になる
 
 ```console
@@ -121,6 +123,8 @@ class: center, middle, inverse
 ![github_new](github_new.png)
 
 ---
+## リポジトリの作成
+
 作成したリポジトリのパスをコピー
 
 ![github_path](github_path.png)
