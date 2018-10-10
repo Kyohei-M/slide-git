@@ -31,6 +31,8 @@ layout: false
 ### リポジトリ
 ファイルやディレクトリの状態を記録する場所。リモートリポジトリとローカルリポジトリがある
 
+### ブランチ
+履歴の流れを分岐して記録していくためのもの
 
 ---
 ## インストール
@@ -54,13 +56,14 @@ $ git --help
 ---
 class: center, middle, inverse
 # gitコマンド
+## ローカル編
 
 ---
-## 覚えるべきgitコマンド(ローカル)
+## 覚えるべきgitコマンド
 
-* init
-* add
-* commit
+* git init
+* git add
+* git commit
 
 ---
 ## git init
@@ -124,15 +127,16 @@ class: center, middle, inverse
 
 ---
 class: center, middle, inverse
-# gitコマンド2
+# gitコマンド
+## リモート編
 
 ---
-## 覚えるべきgitコマンド(リモート)
+## 覚えるべきgitコマンド
 
-* remote
-* push
-* pull
-* clone
+* git remote
+* git push
+* git pull
+* git clone
 
 ---
 ## git remote
@@ -205,13 +209,14 @@ class: center, middle, inverse
 ---
 ## Sourcetree
 
-GitのGUIツール。使いやすいらしい(使ったことない)
-
+GitのGUIツール。使いやすいらしい(使ったことない)  
 <https://www.sourcetreeapp.com/>
+
+![sourcetree](sourcetree.png)
 
 ---
 class: center, middle, inverse
-# 皆さん、Gitを使いましょう！
+## 皆さん、Gitを使いましょう！
 
 ---
 ## 参考  
@@ -220,3 +225,6 @@ class: center, middle, inverse
 
 Wikipedia  
 <https://ja.wikipedia.org/wiki/Git>
+
+サルでもわかるGit入門  
+<https://backlog.com/ja/git-tutorial/>
