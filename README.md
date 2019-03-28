@@ -1,3 +1,3 @@
-# slide-git
-Slide for the LT about git, which is created by remark.js  
-[Slideshow](https://kyohei-m.github.io/slide-git/)
+# slides-git
+Slides for the LT about git, which are created using remark.js  
+[Slideshow](https://kyohei-m.github.io/slides-git/)
